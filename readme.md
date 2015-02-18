@@ -1,1 +1,1 @@
-Simple sketch HTML5 mobile application deployed with Cordova.
+A responsive mobile course application using jQuery mobile.
